@@ -1,0 +1,2 @@
+Componenta: Hard Disk. Producator: sasdd, model: www, an fabricatie: 2012, capacitate 323 TB, viteza: 66RPM.
+Componenta: Placa de baza. Producator: dstewr, model: erwef, an fabricatie: 2011, format: eATX, numar sloturi: 4, numar conectori: 3.

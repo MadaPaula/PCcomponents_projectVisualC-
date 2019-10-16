@@ -1,0 +1,10 @@
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\bin\Debug\StroiaMadalinaPaula_an3_Proiect.exe.config
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\bin\Debug\StroiaMadalinaPaula_an3_Proiect.exe
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\bin\Debug\StroiaMadalinaPaula_an3_Proiect.pdb
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.Form1.resources
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.Properties.Resources.resources
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.csproj.GenerateResource.Cache
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.exe
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.pdb
+C:\Users\Madalina\Documents\Visual Studio 2013\Projects\PAW_AN3\StroiaMadalinaPaula_an3_Proiect\StroiaMadalinaPaula_an3_Proiect\obj\Debug\StroiaMadalinaPaula_an3_Proiect.FormGrafic.resources
